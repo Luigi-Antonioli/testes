@@ -1,3 +1,5 @@
+# Diagrama de Sequência: Realizar Venda (Com Requisitos de Pagamento)
+
 ```mermaid
 sequenceDiagram
     actor Vendedor
