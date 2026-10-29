@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
     subgraph Client ["Camada Cliente (Frontend)"]
         direction TB
@@ -70,3 +71,4 @@ flowchart TB
     end
 
     n2 --> n0
+    ```
