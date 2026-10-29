@@ -1,0 +1,1 @@
+>Tecnologia a confirmar"]   n15["USUÁRIO"]   n3 --> n1   n4 --> n1   n5 --> n1   n6 --> n1   n7 --> n1   n3 --> n2   n4 --> n2   n5 --> n2   n6 --> n2   n7 --> n2   n8 --> n2   n2 --> n0   n13 --> n3   n13 --> n4   n13 --> n5   n13 --> n8   n13 --> n6   n13 --> n7   n9 --> n13   n10 --> n9   n11 --> n10   n14 --> n11   n12 --> n13   n14 --> n12   n15 --> n14   n5 --> n4 ```
