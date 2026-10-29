@@ -1,4 +1,4 @@
-[diagrama_de_componentes (1).md](https://github.com/user-attachments/files/34109512/diagrama_de_componentes.1.md)# Arquitetura e Componentes do Sistema
+# Arquitetura e Componentes do Sistema
 
 ```mermaid
 flowchart TB
