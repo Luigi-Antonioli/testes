@@ -1,3 +1,5 @@
+# Arquitetura e Componentes do Sistema
+
 ```mermaid
 flowchart TB
     subgraph Client ["Camada Cliente (Frontend)"]
@@ -71,4 +73,4 @@ flowchart TB
     end
 
     n2 --> n0
-    ```
+```
