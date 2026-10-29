@@ -1,7 +1,5 @@
-# Arquitetura e Componentes do Sistema
-
 ```mermaid
-flowchart TB
+    flowchart TB
     subgraph Client ["Camada Cliente (Frontend)"]
         direction TB
         n15["Usuário"] --> n14["Aplicação Cliente<br/>(Interface e Estado de Tela)"]
@@ -73,4 +71,6 @@ flowchart TB
     end
 
     n2 --> n0
+
 ```
+[mermaid-diagram-1793242186849.md](https://github.com/user-attachments/files/34110043/mermaid-diagram-1793242186849.md)
