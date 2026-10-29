@@ -28,7 +28,7 @@ flowchart TB
             n3["Caixa<br/>(Sessão, Movimentos, Despesas)"]
         end
 
-        subgraph Shared ["Kernel Compartilhado"]
+        subgraph Shared ["Componentes compartilhados"]
             n1["Componentes Comuns<br/>(Dinheiro, Qtd, Percentual, Datas)"]
         end
 
